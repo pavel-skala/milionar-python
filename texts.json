@@ -1,0 +1,32 @@
+{
+    "cs": {
+        "enter_nickname": "Zadej tvou přezdívku: ",
+        "time_info": "Na každou otázku máš 30 vteřin",
+        "play_again": "Chceš hrát znovu?",
+        "yes_or_no": "ano/ne: ",
+        "question_for": "Otázka za ",
+        "your_answer": "Tvoje odpověď: ",
+        "your_time_info": "Čas byl větší než 30s!",
+        "continue": "Chceš pokračovat: ",
+        "win_info": "Vyhrál jsi",
+        "correct_answer": "Správná odpověď",
+        "you_have": "Máš",
+        "wrong_answer": "Špatná odpověď",
+        "correct_answer_was": "Správná odpověď byla"
+    },
+    "en": {
+        "enter_nickname": "Enter your nickname: ",
+        "time_info":"You have 30 seconds on every question",
+        "play_again": "Do you want play again?",
+        "yes_or_no": "yes/no: ",
+        "question_for": "Question for",
+        "your_answer": "Your answer: ",
+        "your_time_info": "Your time was more than 30s!",
+        "continue": "Do you want continue: ",
+        "win_info": "You won",
+        "correct_answer": "Correct answer",
+        "you_have": "You have",
+        "wrong_answer": "Wrong answer",
+        "correct_answer_was": "Correct answer was"
+    }
+}

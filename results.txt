@@ -1,0 +1,35 @@
+Nickname: eafda
+Money won: 1000Kč
+eafda time: 2s
+Date: 01.12. 2023, 11:51
+
+Nickname: eafda
+Money won: 1000Kč
+eafda time: 3s
+Date: 01.12. 2023, 11:51
+
+Nickname: dafadf
+Money won: 2000Kč
+dafadf time: 12s
+Date: 01.12. 2023, 11:57
+
+Nickname: asdfas
+Money won: 0Kč
+asdfas time: 11s
+Date: 01.12. 2023, 12:08
+
+Nickname: pepa
+Money won: 1000Kč
+pepa time: 31s
+Date: 01.12. 2023, 12:23
+
+Nickname: pepa
+Money won: 0Kč
+pepa time: 1s
+Date: 01.12. 2023, 12:25
+
+Nickname: pepa
+Money won: 1000Kč
+pepa time: 4s
+Date: 01.12. 2023, 12:25
+
