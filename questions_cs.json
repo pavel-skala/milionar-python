@@ -1,29 +1,137 @@
 [
     {
-        "question": "Jak se jmenujes",
+        "question": "Kdo napsal tragédii 'Romeo a Julie'?",
         "answers": [
-            "Pepa",
-            "asdfa",
-            "asdfasdfas",
-            "adfasas"
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
         ]
     },
     {
-        "question": "What your name",
+        "question": "Kolik světadílů je na Zemi?",
         "answers": [
-            "Pepa",
-            "asdfa",
-            "asdfasdfas",
-            "adfasas"
+            "7",
+            "6",
+            "5",
+            "8"
         ]
     },
     {
-        "question": "What your name",
+        "question": "Jak se jmenuje největší planeta ve sluneční soustavě",
         "answers": [
-            "Pepa",
-            "asdfa",
-            "asdfasdfas",
-            "adfasas"
+            "Jupiter",
+            "Mars",
+            "Venuše",
+            "Saturn"
+        ]
+    },
+    {
+        "question": "Jaké je druhé největší město v ČR?",
+        "answers": [
+            "Brno",
+            "Plzeň",
+            "Ostrava",
+            "Praha"
+        ]
+    },
+    {
+        "question": "Kdo byl prvním prezidentem České republiky?",
+        "answers": [
+            "Václav Havel",
+            "Miloš Zeman",
+            "Václav Klaus",
+            "Edvard Beneš"
+        ]
+    },
+    {
+        "question": "Který druh energie větrných turbín vyrábí?",
+        "answers": [
+            "Elektrickou energi",
+            "Tepelnou energii",
+            "Sluneční energii",
+            "Jadernou energii"
+        ]
+    },
+    {
+        "question": "Kdo objevil gravitační zákon?",
+        "answers": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Johannes Kepler",
+            "Albert Einstein"
+        ]
+    },
+    {
+        "question": "Kdo první přistál na měsíci?",
+        "answers": [
+            "Neil Armstrong",
+            "Jurij Alexejevič Gagarin",
+            "Buzz Aldrin",
+            "Charles Conrad"
+        ]
+    },
+    {
+        "question": "Co znamená zkratka DNA?",
+        "answers": [
+            "Deoxyribonukleová kyselina",
+            "Dusík kyslík",
+            "Dvojitý nukleotid",
+            "Dominantní nukleární acid"
+        ]
+    },
+    {
+        "question": "Jaký je největší ostrov na světě?",
+        "answers": [
+            "Grónsko",
+            "Nová Guinea",
+            "Borneo",
+            "Madagaskar"
+        ]
+    },
+    {
+        "question": "Od kdy je Česká republika samostatný stát?",
+        "answers": [
+            "1993",
+            "1992",
+            "1994",
+            "1995"
+        ]
+    },
+    {
+        "question": "Která země vyhrála nejvíce Mistrovství Světa ve fotbale?",
+        "answers": [
+            "Brazílie",
+            "Argentina",
+            "Německo",
+            "Itálie"
+        ]
+    },
+    {
+        "question": "Který průzkumník provedl první obeplutí Země?",
+        "answers": [
+            "Ferdinand Magellan",
+            "James Cook",
+            "Christopher Columbus",
+            "Marco Polo"
+        ]
+    },
+    {
+        "question": "Jak se nazývá největší pyramida na světě?",
+        "answers": [
+            "Cheopsova pyramida",
+            "Chufuova pyramida",
+            "Pyramida slunce v Teotihuacánu",
+            "Pyramida Džoser"
+        ]
+    },
+    {
+        "question": "Který planetární systém je nejbližší Slunci?",
+        "answers": [
+            "Alfa Centauri",
+            "Proxima Centauri",
+            "Sirius",
+            "Vegas"
         ]
     }
 ]

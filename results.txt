@@ -1,35 +1,24 @@
-Nickname: eafda
-Money won: 1000Kč
-eafda time: 2s
-Date: 01.12. 2023, 11:51
+Nickname: asdfsa
+Money won: 1 000Kč
+asdfsa`s time: 2s
+Date: 08.12. 2023, 12:19
+asdfsa used help 50/50: No
 
-Nickname: eafda
-Money won: 1000Kč
-eafda time: 3s
-Date: 01.12. 2023, 11:51
-
-Nickname: dafadf
-Money won: 2000Kč
-dafadf time: 12s
-Date: 01.12. 2023, 11:57
-
-Nickname: asdfas
+Nickname: asdfsa
 Money won: 0Kč
-asdfas time: 11s
-Date: 01.12. 2023, 12:08
+asdfsa`s time: 4s
+Date: 08.12. 2023, 12:19
+asdfsa used help 50/50: No
+
+Nickname: asdfsa
+Money won: 10 000 000Kč
+asdfsa`s time: 59s
+Date: 08.12. 2023, 12:19
+asdfsa used help 50/50: Yes
 
 Nickname: pepa
-Money won: 1000Kč
-pepa time: 31s
-Date: 01.12. 2023, 12:23
-
-Nickname: pepa
-Money won: 0Kč
-pepa time: 1s
-Date: 01.12. 2023, 12:25
-
-Nickname: pepa
-Money won: 1000Kč
-pepa time: 4s
-Date: 01.12. 2023, 12:25
+Money won: 2 000Kč
+pepa`s time: 7s
+Date: 08.12. 2023, 12:21
+pepa used help 50/50: No
 

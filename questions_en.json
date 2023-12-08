@@ -1,29 +1,137 @@
 [
     {
-        "question": "What your name",
+        "question": "Who wrote the tragedy 'Romeo and Juliet'?",
         "answers": [
-            "Pepa",
-            "asdfa",
-            "asdfasdfas",
-            "adfasas"
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
         ]
     },
     {
-        "question": "What your name",
+        "question": "How many continents are there on Earth?",
         "answers": [
-            "Pepa",
-            "asdfa",
-            "asdfasdfas",
-            "adfasas"
+            "7",
+            "6",
+            "5",
+            "8"
         ]
     },
     {
-        "question": "What your name",
+        "question": "What is the name of the largest planet in the solar system?",
         "answers": [
-            "Pepa",
-            "asdfa",
-            "asdfasdfas",
-            "adfasas"
+            "Jupiter",
+            "Mars",
+            "Venus",
+            "Saturn"
+        ]
+    },
+    {
+        "question": "What is the second-largest city in the Czech Republic?",
+        "answers": [
+            "Brno",
+            "Plzeň",
+            "Ostrava",
+            "Prague"
+        ]
+    },
+    {
+        "question": "Who was the first president of the Czech Republic?",
+        "answers": [
+            "Václav Havel",
+            "Miloš Zeman",
+            "Václav Klaus",
+            "Edvard Beneš"
+        ]
+    },
+    {
+        "question": "Which type of energy do wind turbines produce?",
+        "answers": [
+            "Electrical energy",
+            "Thermal energy",
+            "Solar energy",
+            "Nuclear energy"
+        ]
+    },
+    {
+        "question": "Who discovered the law of gravity?",
+        "answers": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Johannes Kepler",
+            "Albert Einstein"
+        ]
+    },
+    {
+        "question": "Who was the first person to land on the moon?",
+        "answers": [
+            "Neil Armstrong",
+            "Jurij Alexejevič Gagarin",
+            "Buzz Aldrin",
+            "Charles Conrad"
+        ]
+    },
+    {
+        "question": "What does the abbreviation DNA stand for?",
+        "answers": [
+            "Deoxyribonucleic acid",
+            "Nitrogen oxygen",
+            "Double nucleotide",
+            "Dominant nuclear acid"
+        ]
+    },
+    {
+        "question": "What is the largest island in the world?",
+        "answers": [
+            "Greenland",
+            "New Guinea",
+            "Borneo",
+            "Madagascar"
+        ]
+    },
+    {
+        "question": "Since when is the Czech Republic an independent state?",
+        "answers": [
+            "1993",
+            "1992",
+            "1994",
+            "1995"
+        ]
+    },
+    {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "answers": [
+            "Brazil",
+            "Argentina",
+            "Germany",
+            "Italy"
+        ]
+    },
+    {
+        "question": "Which explorer completed the first circumnavigation of the Earth?",
+        "answers": [
+            "Ferdinand Magellan",
+            "James Cook",
+            "Christopher Columbus",
+            "Marco Polo"
+        ]
+    },
+    {
+        "question": "What is the name of the largest pyramid in the world?",
+        "answers": [
+            "Cheops pyramid",
+            "Khufu pyramid",
+            "Pyramid of the Sun in Teotihuacan",
+            "Pyramid of Djoser"
+        ]
+    },
+    {
+        "question": "Which planetary system is the closest to the Sun?",
+        "answers": [
+            "Alfa Centauri",
+            "Proxima Centauri",
+            "Sirius",
+            "Vegas"
         ]
     }
 ]

@@ -7,6 +7,6 @@ def get_quetions(name):
     """
     Method for getting questions from json
     """
-    file = open(name, encoding="utf8")
-    data = json.load(file)
+    with open(name, encoding= "utf8") as file:
+        data = json.load(file)
     return data

@@ -1,7 +1,11 @@
 {
     "cs": {
+        "welcome": "Vítejte v milionáři!",
         "enter_nickname": "Zadej tvou přezdívku: ",
         "time_info": "Na každou otázku máš 30 vteřin",
+        "answer_info": "Odpovídej pouze 1 písmenkem - a / b / c / d",
+        "help_info": "Zadáním 'nápověda' získáš nápovědu 50 na 50",
+        "good_luck": "Hodně štěstí!",
         "play_again": "Chceš hrát znovu?",
         "yes_or_no": "ano/ne: ",
         "question_for": "Otázka za ",
@@ -12,11 +16,17 @@
         "correct_answer": "Správná odpověď",
         "you_have": "Máš",
         "wrong_answer": "Špatná odpověď",
-        "correct_answer_was": "Správná odpověď byla"
+        "correct_answer_was": "Správná odpověď byla",
+        "help_picked": "Vybral sis nápovědu 50/50",
+        "ending_text": "Děkujeme za hru"
     },
     "en": {
+        "welcome": "Welcome to millionare!",
         "enter_nickname": "Enter your nickname: ",
         "time_info":"You have 30 seconds on every question",
+        "answer_info": "Answer only 1 alphabet - a / b / c / d",
+        "help_info": "If you write 'help' you will get 50/50",
+        "good_luck": "Good luck!",
         "play_again": "Do you want play again?",
         "yes_or_no": "yes/no: ",
         "question_for": "Question for",
@@ -27,6 +37,8 @@
         "correct_answer": "Correct answer",
         "you_have": "You have",
         "wrong_answer": "Wrong answer",
-        "correct_answer_was": "Correct answer was"
+        "correct_answer_was": "Correct answer was",
+        "help_picked": "You picked help 50/50",
+        "ending_text": "Thank you for playing this game"
     }
 }
